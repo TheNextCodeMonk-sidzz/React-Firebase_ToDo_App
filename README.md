@@ -35,6 +35,28 @@ Make sure you have the following installed on your machine:
    ```sh
    npm start
    ```
+## Project Structure :
+```sh
+📂 todo-list-app
+├── 📂 src
+│   ├── 📄 App.js
+│   ├── 📄 index.js
+│   ├── 📄 Todo.js
+│   ├── 📄 firebase.js
+│   ├── 📜 App.css
+│   ├── 📜 index.css
+│
+├── 📄 package.json
+├── 📄 README.md
+
+```
+
+## Deployment
+
+You can deploy this app on Firebase Hosting or Vercel using:
+```sh
+npm run build
+```
 
 ## Future Enhancements
 - Improve UI with better styling and responsiveness
